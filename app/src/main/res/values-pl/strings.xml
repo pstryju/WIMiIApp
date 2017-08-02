@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WIMiI App</string>
+    <string name="actual_for">Aktualizacja z</string>
+    <string name="lessons_plans">Plan zajęć</string>
+    <string name="news_feed">Aktualności</string>
+    <string name="read">Czytaj</string>
+    <string name="refresh">Odswież</string>
+    <string name="settings">Ustawienia</string>
+    <string name="title">Tytuł</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string-array name="days_of_week">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+    </string-array>
+    <string-array name="study_modes">
+        <item>Stacjonarne</item>
+        <item>Niestacjonarne</item>
+    </string-array>
+    <string-array name="channel_entries">
+        <item>Stacjonarne</item>
+        <item>Niestacjonarne</item>
+    </string-array>
+    <string-array name="channel_values">
+        <item>rss_stacjonarne</item>
+        <item>rss_niestacjonarne</item>
+    </string-array>
+    <string name="expand">Rozwiń</string>
+    <string name="snackbar_offline">Jesteś offline</string>
+    <string name="snackbar_error_refresh">Błąd odświeżania</string>
+    <string name="snackbar_close">Zamknij</string>
+    <string name="snackbar_actual_for">"Aktualne na: "</string>
+</resources>

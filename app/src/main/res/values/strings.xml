@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">WIMiI App</string>
+
+    <string name="title">Title</string>
+    <string name="read">Read</string>
+    <string name="dd_mm_yyyy" translatable="false">dd.mm.yyyy</string>
+    <string name="picture" translatable="false">Picture</string>
+    <string name="actual_for">Actual for</string>
+    <string name="refresh">Refresh</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="study_modes">
+        <item>Stationary</item>
+        <item>Part-time</item>
+    </string-array>
+
+    <string name="news_feed">News feed</string>
+    <string name="lessons_plans">Lessons plans</string>
+
+    <string name="channel" translatable="false">Kanał Aktualności</string>
+    <string-array name="channel_entries">
+        <item>Stacjonarne</item>
+        <item>Niestacjonarne</item>
+    </string-array>
+    <string-array name="channel_values">
+        <item>rss_stacjonarne</item>
+        <item>rss_niestacjonarne</item>
+    </string-array>
+    <string name="channel_default" translatable="false">rss_stacjonarne</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="expand">Expand</string>
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string name="snackbar_actual_for">Actual for: </string>
+    <string name="snackbar_offline">You are offline</string>
+    <string name="snackbar_error_refresh">Refreshing error</string>
+    <string name="snackbar_close">Close</string>
+
+</resources>
